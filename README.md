@@ -1,0 +1,2 @@
+# bamazon
+like amazon database
